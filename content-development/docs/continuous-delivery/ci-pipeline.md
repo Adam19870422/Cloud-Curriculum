@@ -486,10 +486,10 @@ We need to create three `secrets` in GitHub for our workflows to use
 1. Enter `REGISTRY_USERNAME` as name
 1. Enter `claude` as secret
 1. Click `Add secret`.
-1. Repeat steps 4-7 for the `REGISTRY_PASSWORD`, which should contain the value `cmVmdGtuOjAxOjE3NzgyMjI4ODU6c2d5bGhzak9oNGRZQzRyN1JZVUx0UExwVTBO`
-1. Repeat steps 4-7 for the `KUBECONFIG`.
+2. Repeat steps 4-7 for the `REGISTRY_PASSWORD`, which should contain the value `your password`
+3. Repeat steps 4-7 for the `KUBECONFIG`.
     1. Open the `pipeline-kubeconfig.yaml` file, you created earlier, in an editor
-    1. Copy the **contents** of the `pipeline-kubeconfig.yaml` file into the secret as its value.
+    2. Copy the **contents** of the `pipeline-kubeconfig.yaml` file into the secret as its value.
 
 !!!warn "Provided Credentials"
     **Do NOT use the credentials above for anything but this exercise, and only for trial spaces - You have been warned**

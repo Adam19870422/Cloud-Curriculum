@@ -310,7 +310,7 @@ We provide a docker image registry at `cc-ms-k8s-training.common.repositories.cl
 1. Log in to the Docker repository with following command:
 
     ```shell
-    docker login -u "claude" -p "cmVmdGtuOjAxOjE3NzgyMjI4ODU6c2d5bGhzak9oNGRZQzRyN1JZVUx0UExwVTBO" cc-ms-k8s-training.common.repositories.cloud.sap
+    docker login -u "claude" -p "your password" cc-ms-k8s-training.common.repositories.cloud.sap
     ```
 
 1. Push the built image to the registry with the following command (with your D/C/I number inserted):
