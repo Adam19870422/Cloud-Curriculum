@@ -1,0 +1,91 @@
+site_name: "Cloud Native For Leaders"
+site_url: https://pages.github.tools.sap/cloud-curriculum/materials/leaders
+
+theme:
+  name: material
+  palette:
+    scheme: leaders
+  custom_dir: docs/template-overrides
+  logo: assets/CloudNativeDeveloperJourney_filled_shade.png
+  icon:
+    repo: fontawesome/brands/git-alt
+  features:
+    - navigation.instant
+    - navigation.sections
+    - navigation.indexes
+nav:
+#   - Leaders:
+- Welcome: index.md
+- Technical Prerequisites: cn4l/prerequisites.md
+- Language & Stack Basics: cn4l/stack-basics.md
+- Software Crafts(wo-)manship:
+    - Quality (first): cn4l/quality.md
+    - ASE practices: cn4l/ase-practices.md
+    - Agile Leadership: cn4l/agile-leadership.md
+- Cloud Fundamentals:
+    - Cloud Platforms: cn4l/cloud-platforms.md
+    - Microservice Architecture: cn4l/microservice-architecture.md
+    - Technology Choices: cn4l/technology-choices.md
+- Cloud Native & DevOps:
+    - Fast Innovation: cn4l/fast-innovation.md
+    - Scalability: cn4l/scalability.md
+    - High Availability: cn4l/high-availability.md
+- Appendix & Exercises:
+    - Python: 
+        - CF Space: cf-spaces/spaces-python.md
+        - Unit Testing: unit-testing/python.md
+        - Test Driven Development: test-driven-development/python.md
+        - Cloud Foundry: cloud-platforms/cloud-foundry-python.md
+        - Continuous Delivery: continuous-delivery/cloud-foundry-python.md
+    - Node.js: 
+        - CF Space: cf-spaces/spaces-nodejs.md
+        - Unit Testing: unit-testing/nodejs.md
+        - Test Driven Development: test-driven-development/nodejs.md
+        - Cloud Foundry: cloud-platforms/cloud-foundry-nodejs.md
+        - Continuous Delivery: continuous-delivery/cloud-foundry-nodejs.md
+    - Java:
+        - CF Space: cf-spaces/spaces-java.md
+        - Unit Testing: unit-testing/java.md
+        - Test Driven Development: test-driven-development/java.md
+        - Cloud Foundry: cloud-platforms/cloud-foundry-java.md
+        - Continuous Delivery: continuous-delivery/cloud-foundry-java.md
+extra_css:
+  - styling.css
+extra_javascript:
+  - tracking-image-loader.js    
+  - code-snippet-event-listener.js
+  - tab-click-handler.js
+
+plugins:
+  - macros
+
+markdown_extensions:
+  - attr_list
+  - pymdownx.arithmatex
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tilde
+  - footnotes
+  - pymdownx.snippets:
+      base_path: "./docs"
+  - admonition
+  - codehilite:
+      linenums: true
+      guess_lang: false
+  - toc:
+      toc_depth: 3
+
+repo_url: https://github.tools.sap/cloud-curriculum/materials
+edit_uri: tree/main/content-development/docs

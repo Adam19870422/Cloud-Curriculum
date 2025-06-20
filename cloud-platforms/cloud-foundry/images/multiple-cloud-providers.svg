@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="multiple-cloud-providers.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 297 190"
+   height="190mm"
+   width="297mm">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker2252"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path2250"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleInL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleInL"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1862"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(-0.8)" />
+    </marker>
+    <marker
+       inkscape:stockid="ExperimentalArrow"
+       orient="auto-start-reverse"
+       refY="3"
+       refX="5"
+       id="ExperimentalArrow"
+       inkscape:isstock="true">
+      <path
+         id="path1982"
+         d="M 10,3 0,6 V 0 Z"
+         style="fill:context-stroke;stroke:#000000;stroke-opacity:1" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Lend"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1750"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)" />
+    </marker>
+    <rect
+       x="242.52965"
+       y="77.846313"
+       width="161.39404"
+       height="55.69849"
+       id="rect1088" />
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="TriangleInL-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInL">
+      <path
+         transform="scale(-0.8)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path1862-0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker2252-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path2250-1" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker2252-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path2250-8" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker2252-37"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path2250-6" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     inkscape:window-maximized="1"
+     inkscape:window-y="-9"
+     inkscape:window-x="2391"
+     inkscape:window-height="1271"
+     inkscape:window-width="2400"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="264.94573"
+     inkscape:cx="566.6775"
+     inkscape:zoom="1.787232"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:connector-spacing="40" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <ellipse
+       ry="28.348215"
+       rx="37.041668"
+       cy="64.664902"
+       cx="86.045509"
+       id="path28"
+       style="fill:none;stroke-width:0.264583" />
+    <path
+       style="stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;fill:none"
+       fill="#ffffff"
+       stroke-width="4.43608"
+       stroke="#000000"
+       d="m 238.75136,13.627691 c -7.46312,-0.671517 -15.02003,0.0973 -20.23606,1.767872 -2.72424,-1.100468 -6.41095,-1.950137 -10.83988,-2.34757 -11.38633,-1.026461 -23.11933,1.249843 -26.17391,5.077489 -0.22431,0.280938 -0.28141,0.56462 -0.39968,0.845558 -10.25669,-0.359051 -20.07294,1.79939 -22.82572,5.252902 -2.72833,3.420621 2.41837,6.919363 11.67182,8.358323 -0.50162,0.365909 -0.97061,0.744151 -1.29279,1.147058 -3.05049,3.826275 3.73157,7.760813 15.11793,8.785902 5.57899,0.502951 11.21506,0.208309 15.89683,-0.667405 2.57743,1.854206 7.38971,3.346621 13.72726,3.91672 9.04546,0.814046 18.22143,-0.475541 23.17644,-2.94782 2.00648,0.476913 4.23726,0.871601 6.75352,1.097727 11.38637,1.026461 23.09489,-1.252582 26.14541,-5.080229 1.53748,-1.9241 0.58726,-3.871498 -2.18593,-5.468059 2.74463,-0.878452 4.88977,-1.991253 5.94195,-3.309617 3.05049,-3.827641 -3.73156,-7.760806 -15.11791,-8.787268 -1.19901,-0.106897 -2.40206,-0.168565 -3.59698,-0.205569 0.7096,-3.36032 -5.71766,-6.531523 -15.7623,-7.436014 z"
+       stroke-linejoin="round"
+       id="path4952"
+       inkscape:connector-avoid="true" />
+    <text
+       id="text947"
+       y="22.073389"
+       x="214.4682"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         id="tspan949"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         y="22.073389"
+         x="214.4682"
+         sodipodi:role="line">SAP</tspan><tspan
+         id="tspan955"
+         dx="0 0 0 0 0 0 0.2192854 0.2192854"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         y="30.892839"
+         x="214.4682"
+         sodipodi:role="line">Cloud Foundry</tspan><tspan
+         id="tspan953"
+         dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.2192854 0.2192854"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         y="39.712288"
+         x="214.4682"
+         sodipodi:role="line">canary</tspan></text>
+    <rect
+       y="49.408504"
+       x="156.88669"
+       height="8.321311"
+       width="117.74229"
+       id="rect957"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:connector-avoid="true" />
+    <text
+       id="text961"
+       y="98.678429"
+       x="97.362717"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.264583"
+         y="98.678429"
+         x="97.362717"
+         id="tspan959"
+         sodipodi:role="line" /></text>
+    <text
+       id="text1007"
+       y="54.884876"
+       x="160.38705"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'Courier New';-inkscape-font-specification:'Courier New, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         id="tspan1011"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Courier New';-inkscape-font-specification:'Courier New, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         y="54.884876"
+         x="160.38705"
+         sodipodi:role="line">cf api https://api.cf.sap.hana.ondemand.com</tspan></text>
+    <rect
+       ry="2.1836026"
+       y="78.496681"
+       x="9.8809023"
+       height="24.255089"
+       width="91.156075"
+       id="rect1018"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none" />
+    <text
+       id="text1022"
+       y="93.179459"
+       x="55.140289"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:0.75;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         id="tspan1024"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:65%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;baseline-shift:super;text-anchor:middle;stroke-width:0.264583"
+         y="93.179459"
+         x="55.140289"
+         sodipodi:role="line">Cloud Foundry Client</tspan><tspan
+         id="tspan1028"
+         dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;baseline-shift:super;text-anchor:middle;stroke-width:0.264583"
+         y="101.11694"
+         x="55.140289"
+         sodipodi:role="line">(e.g. Command Line Interface)</tspan></text>
+    <text
+       xml:space="preserve"
+       id="text1086"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect1088);fill:#000000;fill-opacity:1;stroke:none;" />
+    <path
+       id="path4952-3"
+       stroke-linejoin="round"
+       d="m 238.64052,73.603155 c -7.46312,-0.67152 -15.02003,0.0973 -20.23606,1.767874 -2.72424,-1.100474 -6.41096,-1.950144 -10.83988,-2.347574 -11.38633,-1.02646 -23.11934,1.24984 -26.17391,5.077494 -0.22431,0.28094 -0.28141,0.56462 -0.39968,0.84556 -10.25669,-0.35906 -20.07294,1.79939 -22.82572,5.2529 -2.72833,3.42062 2.41837,6.91936 11.67182,8.35832 -0.50162,0.36591 -0.97061,0.74415 -1.29279,1.14706 -3.0505,3.82627 3.73157,7.760811 15.11793,8.785901 5.57899,0.50295 11.21506,0.20831 15.89683,-0.66741 2.57742,1.85421 7.38971,3.34663 13.72725,3.91673 9.04547,0.81404 18.22144,-0.47554 23.17645,-2.94782 2.00648,0.47691 4.23726,0.8716 6.75352,1.09772 11.38637,1.02646 23.09489,-1.25258 26.14541,-5.080231 1.53748,-1.9241 0.58726,-3.87149 -2.18593,-5.46806 2.74463,-0.87845 4.88977,-1.99125 5.94194,-3.30961 3.0505,-3.82764 -3.73155,-7.76081 -15.1179,-8.78727 -1.19902,-0.1069 -2.40206,-0.16857 -3.59698,-0.20557 0.7096,-3.36032 -5.71766,-6.531524 -15.7623,-7.436014 z"
+       stroke="#000000"
+       stroke-width="4.43608"
+       fill="#ffffff"
+       style="stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;fill:none"
+       inkscape:connector-avoid="true" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="214.35735"
+       y="82.048859"
+       id="text947-9"><tspan
+         sodipodi:role="line"
+         x="214.35735"
+         y="82.048859"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan949-6">SAP</tspan><tspan
+         sodipodi:role="line"
+         x="214.35735"
+         y="90.868309"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         dx="0 0 0 0 0 0 0.2192854 0.2192854"
+         id="tspan955-2">Cloud Foundry</tspan><tspan
+         sodipodi:role="line"
+         x="214.35735"
+         y="99.687759"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.2192854 0.2192854"
+         id="tspan953-2">us10 live</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect957-0"
+       width="117.74229"
+       height="8.321311"
+       x="156.77582"
+       y="109.38396" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'Courier New';-inkscape-font-specification:'Courier New, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="160.2762"
+       y="114.86034"
+       id="text1007-8"><tspan
+         sodipodi:role="line"
+         x="160.2762"
+         y="114.86034"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Courier New';-inkscape-font-specification:'Courier New, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         id="tspan1011-9">cf api https://api.cf.us10.hana.ondemand.com</tspan></text>
+    <path
+       style="stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;fill:none"
+       fill="#ffffff"
+       stroke-width="4.43608"
+       stroke="#000000"
+       d="m 238.96598,132.6139 c -7.46312,-0.67152 -15.02003,0.0973 -20.23606,1.76787 -2.72424,-1.10047 -6.41096,-1.95014 -10.83988,-2.34757 -11.38633,-1.02646 -23.11934,1.24984 -26.17391,5.07749 -0.22431,0.28094 -0.28141,0.56462 -0.39968,0.84556 -10.25669,-0.35906 -20.07294,1.79939 -22.82572,5.2529 -2.72833,3.42062 2.41837,6.91936 11.67182,8.35832 -0.50162,0.36591 -0.97061,0.74415 -1.29279,1.14706 -3.0505,3.82627 3.73157,7.76081 15.11793,8.78591 5.57899,0.50295 11.21506,0.20831 15.89683,-0.66742 2.57742,1.85422 7.38971,3.34664 13.72725,3.91674 9.04547,0.81404 18.22144,-0.47554 23.17645,-2.94782 2.00648,0.47691 4.23726,0.8716 6.75352,1.09772 11.38637,1.02646 23.0949,-1.25258 26.14542,-5.08024 1.53748,-1.9241 0.58726,-3.87149 -2.18593,-5.46806 2.74462,-0.87845 4.88977,-1.99125 5.94194,-3.30961 3.05049,-3.82764 -3.73155,-7.76081 -15.1179,-8.78727 -1.19902,-0.1069 -2.40207,-0.16857 -3.59699,-0.20557 0.7096,-3.36032 -5.71766,-6.53152 -15.7623,-7.43601 z"
+       stroke-linejoin="round"
+       id="path4952-3-8" />
+    <text
+       id="text947-9-6"
+       y="146.3512"
+       x="214.6828"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         id="tspan949-6-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         y="146.3512"
+         x="214.6828"
+         sodipodi:role="line">Pivotal</tspan><tspan
+         id="tspan953-2-0"
+         dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.2192854 0.2192854"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         y="155.17064"
+         x="214.6828"
+         sodipodi:role="line"><tspan
+           dx="0 0 0 0 0 0 0.2192854 0.2192854"
+           id="tspan2835"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583">Cloud Foundry</tspan></tspan></text>
+    <rect
+       y="168.39471"
+       x="157.10129"
+       height="8.321311"
+       width="117.74229"
+       id="rect957-0-9"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none" />
+    <text
+       id="text1007-8-3"
+       y="173.87109"
+       x="160.60165"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'Courier New';-inkscape-font-specification:'Courier New, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         id="tspan1011-9-0"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Courier New';-inkscape-font-specification:'Courier New, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         y="173.87109"
+         x="160.60165"
+         sodipodi:role="line">cf api https://api.run.pivotal.io</tspan></text>
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2252)"
+       d="M 55.45894,78.496681 V 29.406172 H 160.0069"
+       id="path2236"
+       inkscape:connector-type="orthogonal"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#rect1018"
+       inkscape:connection-end="#path4952" />
+    <path
+       inkscape:connector-curvature="0"
+       inkscape:connector-type="orthogonal"
+       id="path2236-4"
+       d="m 55.45894,102.75177 v 45.64061 h 104.76259"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2252-3)"
+       inkscape:connection-end="#path4952-3-8"
+       inkscape:connection-start="#rect1018" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 272.69919,10.556491 v 0"
+       id="path2568"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       inkscape:connector-type="orthogonal"
+       id="path2236-7"
+       d="m 101.03698,89.381637 h 58.85908"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2252-37)"
+       inkscape:connection-start="#rect1018"
+       inkscape:connection-end="#path4952-3" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 131.31698,70.912256 v 0"
+       id="path2833"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

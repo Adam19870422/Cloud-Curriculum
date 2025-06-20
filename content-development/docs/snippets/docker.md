@@ -1,0 +1,3 @@
+- **Docker** (installer is available independent of license)
+    - [Docker Installer](https://docs.docker.com/engine/install/){target=_blank}
+    - For questions regarding license see [Docker@SAP FAQ](https://sap.sharepoint.com/sites/125351/SitePages/Docker.aspx){target=_blank}

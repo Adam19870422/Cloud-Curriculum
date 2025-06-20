@@ -1,0 +1,129 @@
+.tabbed-set {
+    box-shadow: 0px 5px 5px #1c1c1c2b;
+}
+
+/*for tabs below admonitions*/
+div.admonition div.tabbed-content{
+    padding-left: 1em;
+}
+
+.rating-star::before {
+    content: "\2605";
+}
+
+.rating-star:hover ~ .rating-star::before {
+    content: "\2606";
+}
+
+.rating-section {
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: row-reverse;
+}
+
+.rating-star.default-hollow::before {
+    content: "\2606";
+}
+
+.rating-star.default-hollow:hover ~ .rating-star.default-hollow::before,
+.rating-star.default-hollow:hover::before {
+    content: "\2605";
+}
+
+.consent-popup {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 2rem 8rem;
+    background-color: #fff;
+    transition: opacity 1s ease;
+}
+.consent-popup.hidden {
+    opacity: 0;
+}
+
+/* Popup container */
+.popup {
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+  }
+  
+  /* The actual popup (appears on top) */
+  .popup .popuptext {
+    visibility: hidden;
+    width: 160px;
+    background-color: #555;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 8px 0;
+    position: absolute;
+    z-index: 1;
+    bottom: 125%;
+    left: 50%;
+    margin-left: -80px;
+  }
+  
+  /* Popup arrow */
+  .popup .popuptext::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #555 transparent transparent transparent;
+  }
+  
+  /* Toggle this class when clicking on the popup container (hide and show the popup) */
+  .popup .show {
+    visibility: visible;
+    -webkit-animation: fadeIn 1s;
+    animation: fadeIn 1s
+  }
+
+.md-header .rating {
+    flex: 9 10;
+}
+
+.md-header__topic {
+    width: 100%;
+    justify-content: space-between;
+    gap: 1em;
+}
+
+.md-header__topic > span:first-child {
+    flex: 1 1 auto;
+}
+
+[dir=ltr] .md-content__button ~ .md-content__button::after {
+    content: "\007C";
+    margin-left: 0.4rem;
+}
+
+[data-md-color-scheme="all"] {
+    --md-primary-fg-color:        #7030a0;
+    --md-primary-fg-color--light: #017cb8;
+    --md-primary-fg-color--dark:  #017cb8;
+    --md-accent-fg-color: var(--md-primary-fg-color);
+}
+
+[data-md-color-scheme="leaders"] {
+    --md-primary-fg-color: #0070F2;
+    --md-accent-fg-color: #00144A;
+
+    .md-header__topic:first-child {
+        font-family: "72 Light";
+        font-weight: unset;
+        font-size: 1.3rem;
+    }
+}
+
+
+
+
+/* uses built in theme, as before */
+[data-md-color-scheme="cndj"] {}

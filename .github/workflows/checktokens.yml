@@ -1,0 +1,22 @@
+name: Check tokens
+
+on:
+  repository_dispatch:
+  workflow_dispatch:
+#   schedule:
+#     - cron: "00 18 * * *"
+
+jobs:
+  checktokens:
+    runs-on: solinas
+    steps:
+      - uses: actions/checkout@v3
+      - name: run manually
+
+        run: |
+          curl -H "Authorization: token ${{ secrets.PAT }}" https://github.tools.sap/api/v3/user
+          echo "---------------------------------------------------------------------"
+          curl -H "Authorization: token ${{ secrets.SYNC_TO_PROJECT }}" https://github.tools.sap/api/v3/user
+          
+          
+

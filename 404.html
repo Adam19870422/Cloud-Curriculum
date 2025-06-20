@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Redirecting...</title>
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            var path = window.location.pathname;
+
+            if (path.startsWith('/cloud-curriculum/materials/index-cloud-engineering')) {
+                var cloudEngineeringPath = path.replace('/cloud-curriculum/materials/index-cloud-engineering/', '/cloud-curriculum/materials/all/');
+                window.location.href = cloudEngineeringPath;
+                return;
+            }
+
+            var trackingImage = document.querySelector('.trackingimage');
+            trackingImage.onload = function () {
+                if (!path.startsWith('/cloud-curriculum/materials/cndj') && !path.startsWith('/cloud-curriculum/materials/all')) {
+                    var newPath = path.replace('/cloud-curriculum/materials/', '/cloud-curriculum/materials/cndj/');
+
+                    document.body.innerHTML = 'We have updated our site structure, please update your bookmarks.<br/> You can find the <a href="' + newPath + '">content you are looking for here</a>'
+                    //First phase redir automatically
+                    //For 2nd phase, only provide link, but do not automatically redirect
+                    window.location.href = newPath;
+                }
+            }
+
+            var referrer = document.referrer;
+            if (referrer) {
+                var encodedReferrer = encodeURIComponent(document.referrer);
+                var trackerUrl = `https://cloud-native-dev-usage-tracker.cfapps.sap.hana.ondemand.com/pagehit/cc-materials/redirect/1x1.png?originalReferrer=${encodedReferrer}`;
+                trackingImage.src = trackerUrl;
+            } else {
+                if (!path.startsWith('/cloud-curriculum/materials/cndj') && !path.startsWith('/cloud-curriculum/materials/all')) {
+                    var newPath = path.replace('/cloud-curriculum/materials/', '/cloud-curriculum/materials/cndj/');
+
+                    this.body.innerHTML = 'We have updated our site structure, please update your bookmarks.<br/> You can find the <a href="' + newPath + '">content you are looking for here</a>'
+
+                    //First phase redir automatically
+                    //For 2nd phase, only provide link, but do not automatically redirect
+                    window.location.href = newPath;
+                }
+            }
+        });
+    </script>
+</head>
+<body>
+    We have updated our site structure, please update your bookmarks.<br/> You can find the <a href="/cloud-curriculum/materials/cndj">content you are looking for here</a>
+    <img src="" class="trackingimage" height="1" width="1" />
+</body>
+</html>

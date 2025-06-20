@@ -1,0 +1,2 @@
+!!! warning "Submit Your Solution Before Proceeding"
+    Submit your solution before working on the stretch goals (or go back to the branch or commit containing the basic solution). The validation tests are based on the basic solution and might fail if you implement more.

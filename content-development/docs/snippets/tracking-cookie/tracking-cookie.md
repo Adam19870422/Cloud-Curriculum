@@ -1,0 +1,1 @@
+<img src="" class="trackingimage"  id='{{groupname}}/{{pagename}}' height="1" width="1"/>

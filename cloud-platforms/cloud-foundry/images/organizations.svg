@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1201"
+   height="488"
+   overflow="hidden"
+   version="1.1"
+   id="svg69"
+   sodipodi:docname="organizations.svg"
+   inkscape:version="1.1 (c4e8f9e, 2021-05-24)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview71"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="0.93838468"
+     inkscape:cx="589.31056"
+     inkscape:cy="241.37223"
+     inkscape:window-width="1879"
+     inkscape:window-height="1021"
+     inkscape:window-x="227"
+     inkscape:window-y="212"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g67"
+     inkscape:snap-bbox="false"
+     inkscape:snap-nodes="true" />
+  <defs
+     id="defs9">
+    <clipPath
+       id="clip0">
+      <path
+         d="M36 161 1237 161 1237 649 36 649Z"
+         fill-rule="evenodd"
+         clip-rule="evenodd"
+         id="path2" />
+    </clipPath>
+    <image
+       width="128"
+       height="128"
+       xlink:href="data:image/png;base64,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"
+       preserveAspectRatio="none"
+       id="img1" />
+    <clipPath
+       id="clip2">
+      <path
+         d="M0 0 70 0 70 70 0 70Z"
+         fill-rule="evenodd"
+         clip-rule="evenodd"
+         id="path6" />
+    </clipPath>
+  </defs>
+  <g
+     clip-path="url(#clip0)"
+     transform="translate(-36 -161)"
+     id="g67">
+    <path
+       d="M695.5 594.5 260.5 405.622 695.5 206.5Z"
+       stroke="#000000"
+       stroke-miterlimit="8"
+       fill="#FFFFFF"
+       fill-rule="evenodd"
+       id="path11" />
+    <path
+       d="M582.32 322.163C573.965 265.584 616.984 213.48 678.405 205.784 703.294 202.665 728.598 207.327 750.271 219.023 773.235 179.148 826.897 163.994 870.129 185.175 877.689 188.878 884.627 193.573 890.727 199.111 908.612 166.058 952.176 152.629 988.03 169.117 997.953 173.681 1006.61 180.281 1013.33 188.41 1042.16 157.152 1093.1 153.291 1127.11 179.786 1141.4 190.922 1151.04 206.281 1154.36 223.23 1201.59 235.102 1229.46 280.072 1216.6 323.673 1215.52 327.339 1214.16 330.93 1212.54 334.422 1250.42 379.854 1241.14 444.971 1191.82 479.865 1176.47 490.727 1158.34 497.76 1139.17 500.284 1138.75 549.162 1095.36 588.467 1042.26 588.075 1024.52 587.944 1007.16 583.298 992.112 574.65 974.151 629.447 911.505 660.42 852.186 643.828 827.326 636.875 805.847 622.17 791.412 602.222 730.677 635.971 651.845 617.817 615.337 561.674 614.876 560.966 614.424 560.254 613.98 559.538 574.232 563.824 538.228 537.694 533.562 501.175 531.076 481.71 538.05 462.227 552.628 447.918 518.212 429.252 506.651 388.281 526.806 356.407 538.433 338.018 558.827 325.862 581.715 323.676Z"
+       stroke="#000000"
+       stroke-miterlimit="8"
+       fill="#E1E5FF"
+       fill-rule="evenodd"
+       id="path13" />
+    <path
+       d="M595.499 454.991C580.807 456.051 566.115 452.922 553.398 446.025M632.646 553.114C626.738 555.281 620.544 556.724 614.226 557.405M791.37 600.263C786.927 594.121 783.206 587.559 780.272 580.687M996.615 551.449C995.962 558.733 994.476 565.933 992.184 572.928M1084.74 418.733C1118.05 433.67 1139.07 464.9 1138.78 499.008M1212.2 333.233C1206.8 344.847 1198.57 355.15 1188.14 363.334M1154.46 221.543C1155.38 226.233 1155.8 230.993 1155.73 235.759M1000.79 204.96C1003.92 198.401 1008.07 192.295 1013.11 186.83M885.492 213.6C886.771 208.18 888.776 202.928 891.462 197.964M750.185 218.91C758.027 223.142 765.281 228.236 771.79 234.079M586.092 338.126C584.381 332.906 583.12 327.57 582.322 322.166"
+       stroke="#000000"
+       stroke-miterlimit="8"
+       fill="none"
+       fill-rule="evenodd"
+       id="path15" />
+    <path
+       d="M651.5 272.5C651.5 265.32 657.32 259.5 664.5 259.5L832.5 259.5C839.68 259.5 845.5 265.32 845.5 272.5L845.5 324.5C845.5 331.68 839.68 337.5 832.5 337.5L664.5 337.5C657.32 337.5 651.5 331.68 651.5 324.5Z"
+       stroke="#000000"
+       stroke-miterlimit="8"
+       fill="#D9D9D9"
+       fill-rule="evenodd"
+       id="path17" />
+    <text
+       font-family="Arial, sans-serif"
+       font-weight="400"
+       font-size="27px"
+       transform="translate(729.004,308)"
+       id="text19">
+       <tspan id="tspan29483">erp</tspan>
+    </text>
+    <path
+       d="M616.5 396.667C616.5 389.395 622.395 383.5 629.667 383.5L797.333 383.5C804.605 383.5 810.5 389.395 810.5 396.667L810.5 449.333C810.5 456.605 804.605 462.5 797.333 462.5L629.667 462.5C622.395 462.5 616.5 456.605 616.5 449.333Z"
+       stroke="#000000"
+       stroke-miterlimit="8"
+       fill="#D9D9D9"
+       fill-rule="evenodd"
+       id="path21" />
+    <text
+       font-family="Arial, sans-serif"
+       font-weight="400"
+       font-size="27px"
+       transform="translate(641.429,433)"
+       id="text23"
+       style="font-weight:400;font-size:27px;font-family:Arial, sans-serif"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         id="tspan30293">cloudcourse</tspan></text>
+    <path
+       d="M884.5 233.667C884.5 226.395 890.395 220.5 897.667 220.5L1066.33 220.5C1073.6 220.5 1079.5 226.395 1079.5 233.667L1079.5 286.333C1079.5 293.605 1073.6 299.5 1066.33 299.5L897.667 299.5C890.395 299.5 884.5 293.605 884.5 286.333Z"
+       stroke="#000000"
+       stroke-miterlimit="8"
+       fill="#D9D9D9"
+       fill-rule="evenodd"
+       id="path25" />
+    <text
+       font-family="Arial, sans-serif"
+       font-weight="400"
+       font-size="27px"
+       transform="translate(960.068,269)"
+       id="text27">
+       <tspan id="tspan32451">trial</tspan>
+    </text>
+    <path
+       d="M748.5 503.5C748.5 496.32 754.32 490.5 761.5 490.5L929.5 490.5C936.68 490.5 942.5 496.32 942.5 503.5L942.5 555.5C942.5 562.68 936.68 568.5 929.5 568.5L761.5 568.5C754.32 568.5 748.5 562.68 748.5 555.5Z"
+       stroke="#000000"
+       stroke-miterlimit="8"
+       fill="#D9D9D9"
+       fill-rule="evenodd"
+       id="path29" />
+    <text
+       font-family="Arial, sans-serif"
+       font-weight="400"
+       font-size="27px"
+       transform="translate(792.687,539)"
+       id="text31">
+       <tspan id="tspan31015">cocacola</tspan>
+    </text>
+    <path
+       d="M866.5 378.5C866.5 371.32 872.32 365.5 879.5 365.5L1047.5 365.5C1054.68 365.5 1060.5 371.32 1060.5 378.5L1060.5 430.5C1060.5 437.68 1054.68 443.5 1047.5 443.5L879.5 443.5C872.32 443.5 866.5 437.68 866.5 430.5Z"
+       stroke="#000000"
+       stroke-miterlimit="8"
+       fill="#D9D9D9"
+       fill-rule="evenodd"
+       id="path33" />
+    <text
+       font-family="Arial, sans-serif"
+       font-weight="400"
+       font-size="27px"
+       transform="translate(949.456,414)"
+       id="text35">
+       <tspan id="tspan31755">…</tspan>
+    </text>
+    <path
+       d="M75.507 232.754C73.9594 219.366 81.9281 207.036 93.3055 205.215 97.9158 204.477 102.603 205.58 106.618 208.348 110.871 198.913 120.812 195.327 128.82 200.339 130.22 201.215 131.505 202.326 132.635 203.636 135.948 195.815 144.018 192.638 150.66 196.539 152.498 197.619 154.101 199.181 155.347 201.104 160.687 193.708 170.123 192.794 176.422 199.064 179.07 201.699 180.855 205.333 181.47 209.344 190.219 212.153 195.381 222.794 192.998 233.111 192.798 233.978 192.547 234.828 192.246 235.654 199.263 246.405 197.546 261.813 188.41 270.07 185.566 272.64 182.207 274.304 178.657 274.902 178.578 286.467 170.54 295.768 160.704 295.675 157.418 295.644 154.203 294.545 151.416 292.498 148.089 305.465 136.484 312.794 125.496 308.868 120.891 307.222 116.913 303.743 114.239 299.023 102.988 307.009 88.3857 302.713 81.623 289.428 81.5377 289.26 81.454 289.092 81.3717 288.923 74.0089 289.937 67.3396 283.754 66.4754 275.112 66.0148 270.506 67.3067 265.896 70.007 262.51 63.6319 258.094 61.4903 248.399 65.2238 240.857 67.3776 236.505 71.1553 233.629 75.395 233.112Z"
+       stroke="#000000"
+       stroke-miterlimit="8"
+       fill="#E1E5FF"
+       fill-rule="evenodd"
+       id="path37" />
+    <path
+       d="M77.9484 264.184C75.2267 264.435 72.5054 263.695 70.1497 262.063M84.8293 287.402C83.7349 287.915 82.5876 288.257 81.4172 288.418M114.231 298.559C113.408 297.106 112.719 295.553 112.175 293.927M152.25 287.008C152.129 288.732 151.854 290.436 151.429 292.091M168.573 255.604C174.744 259.139 178.638 266.529 178.583 274.6M192.184 235.373C191.184 238.121 189.659 240.559 187.726 242.496M181.488 208.944C181.659 210.054 181.737 211.181 181.724 212.308M153.023 205.02C153.603 203.468 154.372 202.023 155.306 200.73M131.666 207.065C131.903 205.782 132.274 204.54 132.772 203.365M106.602 208.321C108.054 209.323 109.398 210.528 110.604 211.911M76.2059 236.531C75.8888 235.296 75.6553 234.033 75.5075 232.754"
+       stroke="#000000"
+       stroke-miterlimit="8"
+       fill="none"
+       fill-rule="evenodd"
+       id="path39" />
+    <text
+       font-family="Arial, sans-serif"
+       font-weight="700"
+       font-size="27px"
+       transform="translate(111.15,259)"
+       id="text41">
+       <tspan id="tspan27597">…</tspan>
+    </text>
+    <path
+       d="M65.4931 369.737C62.0139 353.555 79.9284 338.653 105.506 336.452 115.871 335.56 126.409 336.893 135.434 340.238 144.997 328.834 167.344 324.499 185.347 330.557 188.495 331.616 191.384 332.959 193.925 334.543 201.373 325.09 219.514 321.249 234.445 325.965 238.577 327.27 242.182 329.157 244.983 331.483 256.987 322.542 278.2 321.438 292.363 329.016 298.316 332.201 302.327 336.594 303.711 341.441 323.38 344.837 334.984 357.699 329.628 370.169 329.178 371.217 328.613 372.245 327.938 373.243 343.712 386.237 339.851 404.861 319.312 414.841 312.919 417.948 305.367 419.959 297.387 420.681 297.209 434.661 279.14 445.902 257.027 445.79 249.639 445.753 242.412 444.424 236.145 441.95 228.665 457.623 202.577 466.481 177.875 461.736 167.522 459.747 158.578 455.542 152.566 449.836 127.274 459.489 94.4461 454.296 79.2426 438.239 79.0509 438.037 78.8627 437.833 78.6778 437.628 62.1252 438.854 47.1317 431.381 45.1889 420.936 44.1534 415.369 47.0579 409.796 53.1285 405.704 38.7964 400.365 33.982 388.647 42.3752 379.531 47.2173 374.272 55.7099 370.795 65.2412 370.17Z"
+       stroke="#000000"
+       stroke-miterlimit="8"
+       fill="#E1E5FF"
+       fill-rule="evenodd"
+       id="path43" />
+    <path
+       d="M70.9817 407.727C64.8631 408.03 58.7451 407.135 53.4493 405.163M86.4508 435.791C83.9903 436.411 81.4112 436.823 78.78 437.018M152.549 449.276C150.699 447.519 149.149 445.642 147.927 443.677M238.02 435.315C237.748 437.398 237.13 439.457 236.175 441.458M274.717 397.357C288.59 401.629 297.345 410.561 297.221 420.316M327.796 372.903C325.55 376.225 322.12 379.172 317.776 381.512M303.752 340.959C304.135 342.3 304.312 343.662 304.281 345.025M239.757 336.216C241.063 334.34 242.792 332.594 244.891 331.031M191.744 338.687C192.277 337.137 193.112 335.635 194.231 334.215M135.398 340.206C138.664 341.416 141.685 342.873 144.395 344.544M67.0642 374.303C66.3514 372.81 65.8264 371.283 65.4942 369.738"
+       stroke="#000000"
+       stroke-miterlimit="8"
+       fill="none"
+       fill-rule="evenodd"
+       id="path45" />
+    <text
+       font-family="Arial, sans-serif"
+       font-weight="700"
+       font-size="37px"
+       id="text49"
+       x="97.219002"
+       y="379"
+       style="font-weight:700;font-size:37px;font-family:Arial, sans-serif">
+        <tspan sodipodi:role="line" id="tspan1821" x="97.219002" y="379">CF Canary</tspan>
+        <tspan sodipodi:role="line" id="tspan1823" x="97.219002" y="425.25">@ SAP</tspan>
+	</text>
+    <path
+       d="M119.139 528.754C117.51 515.366 125.898 503.036 137.874 501.215 142.727 500.477 147.661 501.58 151.887 504.348 156.365 494.913 166.828 491.327 175.258 496.339 176.732 497.215 178.085 498.326 179.274 499.636 182.762 491.815 191.256 488.638 198.247 492.539 200.182 493.619 201.87 495.181 203.181 497.104 208.802 489.708 218.734 488.794 225.366 495.064 228.153 497.699 230.031 501.333 230.679 505.344 239.889 508.153 245.322 518.794 242.814 529.111 242.603 529.978 242.339 530.828 242.023 531.654 249.409 542.405 247.601 557.813 237.984 566.07 234.99 568.64 231.455 570.304 227.718 570.902 227.635 582.467 219.174 591.768 208.82 591.675 205.361 591.644 201.977 590.545 199.043 588.498 195.541 601.465 183.325 608.794 171.759 604.868 166.912 603.222 162.724 599.743 159.909 595.023 148.067 603.009 132.696 598.713 125.577 585.428 125.487 585.26 125.399 585.092 125.312 584.923 117.562 585.937 110.542 579.754 109.632 571.112 109.147 566.506 110.507 561.896 113.349 558.51 106.639 554.094 104.385 544.399 108.314 536.857 110.582 532.505 114.558 529.629 119.021 529.112Z"
+       stroke="#000000"
+       stroke-miterlimit="8"
+       fill="#E1E5FF"
+       fill-rule="evenodd"
+       id="path51" />
+    <path
+       d="M121.709 560.184C118.844 560.435 115.979 559.695 113.5 558.063M128.952 583.402C127.8 583.915 126.592 584.257 125.36 584.418M159.901 594.559C159.034 593.106 158.309 591.553 157.737 589.927M199.921 583.008C199.793 584.732 199.504 586.436 199.057 588.091M217.103 551.604C223.599 555.139 227.698 562.529 227.64 570.6M241.957 531.373C240.905 534.121 239.299 536.559 237.265 538.496M230.698 504.944C230.877 506.054 230.96 507.181 230.946 508.308M200.734 501.02C201.346 499.469 202.155 498.023 203.138 496.73M178.253 503.065C178.503 501.782 178.894 500.54 179.417 499.365M151.87 504.321C153.399 505.323 154.814 506.528 156.083 507.911M119.875 532.531C119.541 531.296 119.295 530.033 119.139 528.754"
+       stroke="#000000"
+       stroke-miterlimit="8"
+       fill="none"
+       fill-rule="evenodd"
+       id="path53" />
+    <text
+       font-family="Arial, sans-serif"
+       font-weight="700"
+       font-size="27px"
+       transform="translate(160.247,555)"
+       id="text55"><tspan
+         id="tspan28529">...</tspan></text>
+    <g
+       clip-path="url(#clip2)"
+       transform="matrix(1 0 -0 1.01429 391 280)"
+       id="g59">
+      <use
+         width="100%"
+         height="100%"
+         xlink:href="#img1"
+         transform="scale(0.546875 0.546875)"
+         id="use57" />
+    </g>
+    <rect
+       x="352.5"
+       y="547.5"
+       width="147"
+       height="39"
+       stroke="#000000"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="#F2F2F2"
+       id="rect61" />
+    <text
+       font-family="Courier"
+       font-weight="400"
+       font-size="24px"
+       id="text65"
+       x="374.01801"
+       y="573"><tspan
+         id="tspan8755">cf orgs</tspan></text>
+  </g>
+</svg>

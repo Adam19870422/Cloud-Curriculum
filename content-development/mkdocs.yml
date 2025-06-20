@@ -1,0 +1,200 @@
+site_name: Materials
+site_url: https://pages.github.tools.sap/cloud-curriculum/materials
+
+theme:
+  name: material
+  palette:
+    scheme: all
+  custom_dir: docs/template-overrides
+  icon:
+    repo: fontawesome/brands/git-alt
+  features:
+    - navigation.instant
+    - navigation.sections
+    - navigation.indexes
+    - navigation.tabs
+    - navigation.tabs.sticky
+
+nav:
+  - Java:
+    - index.md
+    - Welcome: index.md
+    - Prerequisites:
+        - Technical Prerequisites: prerequisites/java.md
+        - Language & Stack: stack-basics/java.md
+    - Software Craftsmanship:
+        - Introduction: ase-mindset/what-is-ase-java.md
+        - Unit Testing: unit-testing/java.md
+        - GenAI Tooling: genai-tooling/java.md
+        - Pair Programming: ase-mindset/pair-programming-java.md
+        - Test Driven Development: test-driven-development/java.md
+        - Clean Code & Refactoring: refactoring/java.md
+        - Decoupling & Test Isolation: decoupling/java.md
+        - Legacy Code: legacy-code/java.md
+        - Dependency Injection Frameworks: decoupling/di-frameworks-java.md
+        - Behavior Driven Development: bdd/java.md
+        - Testing Strategy: ase-mindset/testing-overview-java.md
+    - Cloud Engineering:
+        - Introduction: cloud-engineering/introduction-java.md
+        - HTTP REST: http-rest/java.md
+        - Logging: logging/java.md
+        - Persistence: persistence/java.md
+        - Authentication & Authorization: auth/java.md
+        - Microservices: cloud-microservices/intro-java.md
+        - Decoupling Services: decoupling-services/java.md
+        - Containers: containers/java.md
+        - Cloud Platforms:
+            - Cloud Foundry: cloud-platforms/cloud-foundry-java.md
+            - Kubernetes: cloud-platforms/kubernetes-java.md
+        - Continuous Delivery (Azure):
+            - Cloud Foundry: continuous-delivery/azure-cloud-foundry-java.md
+            - Kubernetes: continuous-delivery/azure-kubernetes-java.md
+        - Continuous Delivery (GHA):
+            - Cloud Foundry: continuous-delivery/cloud-foundry-java.md
+            - Kubernetes: continuous-delivery/kubernetes-java.md
+        - Release Toggles: 
+            - Cloud Foundry: release-toggles/cloud-foundry-java.md
+            - Kubernetes: release-toggles/kubernetes-java.md
+        - Zero Downtime Deployment: 
+            - Cloud Foundry: zero-downtime-deployment/cloud-foundry-java.md
+            - Kubernetes: zero-downtime-deployment/kubernetes-java.md
+        - Zero Downtime Database Migration: 
+            - Cloud Foundry: zero-downtime-db-migration/cloud-foundry-java.md
+            - Kubernetes: zero-downtime-db-migration/kubernetes-java.md
+        - Resilience: resilience/java.md
+        - S2S Communication: service2service/java.md
+        - Distributed Logging:
+            - Cloud Foundry: distributed-logging/cloud-foundry-java.md
+            - Kubernetes: distributed-logging/kubernetes-java.md
+        - Monitoring: 
+            - Cloud Foundry: monitoring/cloud-foundry-java.md
+            - Kubernetes: monitoring/kubernetes-java.md
+        - Alerting:
+            - Cloud Foundry: alerting/cloud-foundry-java.md
+            - Kubernetes: alerting/kubernetes-java.md
+  - Node.js:
+    - index-nodejs.md
+    - Prerequisites:
+        - Technical Prerequisites: prerequisites/nodejs.md
+        - Language & Stack:
+            - Basics: stack-basics/nodejs.md
+            - Modern JavaScript Features: modern-lang-feat/javascript.md
+            - TypeScript: modern-lang-feat/typescript.md
+            - Asynchronous Programming: async/nodejs.md
+        - Debugging with VS Code: debugging/nodejs.md
+    - Software Craftsmanship:
+        - Introduction: ase-mindset/what-is-ase-nodejs.md
+        - Unit Testing: unit-testing/nodejs.md
+        - GenAI Tooling: genai-tooling/nodejs.md
+        - Pair Programming: ase-mindset/pair-programming-nodejs.md
+        - Test Driven Development: test-driven-development/nodejs.md
+        - Clean Code & Refactoring: refactoring/nodejs.md
+        - Decoupling & Test Isolation: decoupling/nodejs.md
+        - Legacy Code: legacy-code/nodejs.md
+        - Behavior Driven Development: bdd/nodejs.md
+        - Testing Strategy: ase-mindset/testing-overview-nodejs.md
+    - Cloud Engineering:
+        - Introduction: cloud-engineering/introduction-nodejs.md
+        - HTTP REST: http-rest/nodejs.md
+        - Logging: logging/nodejs.md
+        - Persistence: persistence/nodejs.md
+        - Authentication & Authorization: auth/nodejs.md
+        - Microservices: cloud-microservices/intro-nodejs.md
+        - Decoupling Services: decoupling-services/nodejs.md
+        - Containers: containers/nodejs.md
+        - Cloud Platforms:
+            - Cloud Foundry: cloud-platforms/cloud-foundry-nodejs.md
+            - Kubernetes: cloud-platforms/kubernetes-nodejs.md
+        - Continuous Delivery (Azure Pipelines):
+            - Cloud Foundry: continuous-delivery/azure-cloud-foundry-nodejs.md
+            - Kubernetes: continuous-delivery/azure-kubernetes-nodejs.md
+        - Continuous Delivery (GHA):
+            - Cloud Foundry: continuous-delivery/cloud-foundry-nodejs.md
+            - Kubernetes: continuous-delivery/kubernetes-nodejs.md
+        - Release Toggles: 
+            - Cloud Foundry: release-toggles/cloud-foundry-nodejs.md
+            - Kubernetes: release-toggles/kubernetes-nodejs.md
+        - Resilience: resilience/nodejs.md
+        - S2S Communication: service2service/nodejs.md
+        - Distributed Logging:
+            - Cloud Foundry: distributed-logging/cloud-foundry-nodejs.md
+            - Kubernetes: distributed-logging/kubernetes-nodejs.md
+        - Monitoring:
+            - Cloud Foundry: monitoring/cloud-foundry-nodejs.md
+            - Kubernetes: monitoring/kubernetes-nodejs.md
+        - Alerting:
+            - Cloud Foundry: alerting/cloud-foundry-nodejs.md
+            - Kubernetes: alerting/kubernetes-nodejs.md
+  - Python:
+    - index-python.md
+    - Prerequisites:
+        - Technical Prerequisites: prerequisites/python.md
+        - Language & Stack: stack-basics/python.md
+    - Software Craftsmanship:
+        - Introduction: ase-mindset/what-is-ase-python.md
+        - Unit Testing: unit-testing/python.md
+        - GenAI Tooling: genai-tooling/python.md
+        - Pair Programming: ase-mindset/pair-programming-python.md
+        - Test Driven Development: test-driven-development/python.md
+        - Clean Code & Refactoring: refactoring/python.md
+        - Decoupling & Test Isolation: decoupling/python.md
+        - Testing Strategy: ase-mindset/testing-overview-python.md
+    - Cloud Engineering:
+        - Introduction: cloud-engineering/introduction-python.md
+        - HTTP REST: http-rest/python.md
+        - Logging: logging/python.md
+        - Persistence: persistence/python.md
+        - Authentication & Authorization: auth/python.md
+        - Microservices: cloud-microservices/intro-python.md
+        - Containers: containers/python.md
+        - Cloud Platforms:
+            - Cloud Foundry: cloud-platforms/cloud-foundry-python.md
+            - Kubernetes: cloud-platforms/kubernetes-python.md
+        - Continuous Delivery:
+            - Cloud Foundry: continuous-delivery/cloud-foundry-python.md
+            - Kubernetes: continuous-delivery/kubernetes-python.md
+        - Distributed Logging:
+            - Cloud Foundry: distributed-logging/cloud-foundry-python.md
+            - Kubernetes: distributed-logging/kubernetes-python.md
+
+extra_css:
+  - styling.css
+extra_javascript:
+  - tracking-image-loader.js    
+  - code-snippet-event-listener.js
+  - tab-click-handler.js
+
+plugins:
+  - search
+  - macros
+
+markdown_extensions:
+  - attr_list
+  - pymdownx.arithmatex
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tilde
+  - footnotes
+  - pymdownx.snippets:
+      base_path: "./docs"
+  - admonition
+  - codehilite:
+      linenums: true
+      guess_lang: false
+  - toc:
+      toc_depth: 3
+
+repo_url: https://github.tools.sap/cloud-curriculum/materials
+edit_uri: tree/main/content-development/docs

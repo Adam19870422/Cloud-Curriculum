@@ -1,0 +1,13 @@
+{% macro stars(page) -%}
+{%- set resource = "cc-materials-" ~ 
+  (
+    page.url.split("/")
+      |reject("equalto", "")
+      |join("-")
+      |default("index", true)
+  )
+-%}
+{% for number in range(1, 6) -%}
+<a class="rating-star" target="_blank" href="https://cloud-native-dev-course-feedback.cfapps.sap.hana.ondemand.com/rating/{{ resource }}/submit?rating={{ number }}"></a>
+{%- endfor %}
+{%- endmacro -%}

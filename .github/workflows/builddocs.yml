@@ -1,0 +1,22 @@
+name: Publish docs via GitHub Pages
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  build:
+    name: Deploy docs
+    runs-on: solinas
+    steps:
+      - name: Create GH App Token
+        uses: actions/create-github-app-token@v1
+        id: app-token
+        with:
+          app-id: ${{ secrets.CC_TECH_INTEGRATION_APP_ID }}
+          private-key: ${{ secrets.CC_TECH_INTEGRATION_PRIVATE_KEY }}
+          
+      - name: Checkout main
+        uses: actions/checkout@v2
+      - name: Build Docs and Push To GH Pages
+        run: ./pipeline.sh ${{ steps.app-token.outputs.token }}

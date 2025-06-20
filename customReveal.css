@@ -1,0 +1,32 @@
+/* Additional styling for the revealjs slides to add new styles or overwrite existing ones  */
+
+
+/* 
+  Custom code-snippet highlighting
+  See the stylable classes here: https://highlightjs.readthedocs.io/en/latest/css-classes-reference.html#stylable-classes
+*/
+.hljs-meta {
+  color: yellow !important;
+}
+
+.hljs-comment {
+  color: rgb(0, 255, 64) !important;
+}
+
+code:not(.hljs) {
+  color: #80391e;
+  background-color: whitesmoke;
+}
+.container {
+  display: flex;
+}
+
+.col {
+  flex: 1;
+  margin: 2rem;
+}
+
+.left-aligned {
+  text-align: left;
+}
+

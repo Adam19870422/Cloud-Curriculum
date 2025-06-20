@@ -1,0 +1,136 @@
+site_name: Cloud Native Developer Journey Materials
+site_url: https://pages.github.tools.sap/cloud-curriculum/materials
+
+theme:
+  name: material
+  palette:
+    primary: green
+    accent: blue
+  custom_dir: docs/template-overrides
+  icon:
+    repo: fontawesome/brands/git-alt
+  features:
+    - navigation.instant
+    - navigation.sections
+    - navigation.indexes
+    - navigation.tabs
+    - navigation.tabs.sticky
+nav:
+  - Java:
+    - index.md
+    - Welcome: index.md
+    - Technical Prerequisites: prerequisites/java.md
+    - Language & Stack:
+        - Basics: stack-basics/java.md
+    - Software Craftsmanship:
+        - Mindset: ase-mindset/what-is-ase-java.md
+        - Unit Testing: unit-testing/java.md
+        - Pair Programming: ase-mindset/pair-programming-java.md
+        - Test Driven Development: test-driven-development/java.md
+        - Clean Code & Refactoring: refactoring/java.md
+        - Decoupling & Test Isolation: decoupling/java.md
+        - Legacy Code: legacy-code/java.md
+        - Dependency Injection Frameworks: decoupling/di-frameworks-java.md
+        - Testing Strategy: ase-mindset/testing-overview-java.md
+    - Cloud Development:
+        - HTTP REST: http-rest/java.md
+        - Logging: logging/java.md
+        - Persistence: persistence/java.md
+        - Microservices: cloud-microservices/intro-java.md
+        - Cloud Platforms:
+            - Cloud Foundry: cloud-platforms/cloud-foundry-java.md
+            - Kubernetes: cloud-platforms/kubernetes-java.md
+        - S2S Communication: service2service/java.md
+        - Distributed Logging:
+            - Cloud Foundry: distributed-logging/cloud-foundry-java.md
+            - Kubernetes: distributed-logging/kubernetes-java.md
+        - Continuous Delivery:
+            - Cloud Foundry: continuous-delivery/cloud-foundry-java.md
+            - Kubernetes: continuous-delivery/kubernetes-java.md
+    - Appendix:
+        - Cloud Native Developer Journey:
+            - Self Learners: self-learner/java.md
+            - ASE Prerequisite Test: pretest/ase-java.md
+            - FUN Prerequisite Test: pretest/fun-java.md
+            - CF Space: cf-spaces/spaces-java.md
+  - Node.js:
+    - index-nodejs.md
+    - Technical Prerequisites: prerequisites/nodejs.md
+    - Language & Stack:
+        - Basics: stack-basics/nodejs.md
+        - Modern JavaScript Features: modern-lang-feat/javascript.md
+        - TypeScript: modern-lang-feat/typescript.md
+        - Asynchronous Programming: async/nodejs.md
+    - Software Craftsmanship:
+        - Mindset: ase-mindset/what-is-ase-nodejs.md
+        - Unit Testing: unit-testing/nodejs.md
+        - Pair Programming: ase-mindset/pair-programming-nodejs.md
+        - Test Driven Development: test-driven-development/nodejs.md
+        - Clean Code & Refactoring: refactoring/nodejs.md
+        - Decoupling & Test Isolation: decoupling/nodejs.md
+        - Legacy Code: legacy-code/nodejs.md
+        - Testing Strategy: ase-mindset/testing-overview-nodejs.md
+    - Cloud Development:
+        - HTTP REST: http-rest/nodejs.md
+        - Logging: logging/nodejs.md
+        - Persistence: persistence/nodejs.md
+        - Microservices: cloud-microservices/intro-nodejs.md
+        - Cloud Platforms:
+            - Cloud Foundry: cloud-platforms/cloud-foundry-nodejs.md
+            - Kubernetes: cloud-platforms/kubernetes-nodejs.md
+        - S2S Communication: service2service/nodejs.md
+        - Distributed Logging:
+            - Cloud Foundry: distributed-logging/cloud-foundry-nodejs.md
+            - Kubernetes: distributed-logging/kubernetes-nodejs.md
+        - Continuous Delivery:
+            - Cloud Foundry: continuous-delivery/cloud-foundry-nodejs.md
+            - Kubernetes: continuous-delivery/kubernetes-nodejs.md
+    - Appendix:
+        - Cloud Native Developer Journey:
+            - Self Learners: self-learner/nodejs.md
+            - ASE Prerequisite Test: pretest/ase-nodejs.md
+            - FUN Prerequisite Test: pretest/fun-nodejs.md
+            - CF Space: cf-spaces/spaces-nodejs.md
+        - Tools:
+            - Debugging with VS Code: debugging/nodejs.md
+extra_css:
+  - styling.css
+extra_javascript:
+  - tracking-image-loader.js    
+  - code-snippet-event-listener.js
+  - tab-click-handler.js
+
+plugins:
+  - search
+  - macros
+
+markdown_extensions:
+  - attr_list
+  - pymdownx.arithmatex
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tilde
+  - footnotes
+  - pymdownx.snippets:
+      base_path: "./docs"
+  - admonition
+  - codehilite:
+      linenums: true
+      guess_lang: false
+  - toc:
+      toc_depth: 3
+
+repo_url: https://github.tools.sap/cloud-curriculum/materials
+edit_uri: tree/main/content-development/docs

@@ -1,0 +1,3 @@
+- Right-click the test folder
+- Select `More Run/Debug`
+- Click `Run 'pytest in <test folder>' with Coverage`

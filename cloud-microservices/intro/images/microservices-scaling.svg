@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="300mm"
+   height="240mm"
+   overflow="hidden"
+   version="1.1"
+   id="svg2999"
+   sodipodi:docname="microservices-scaling-new.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   viewBox="0 0 1133.8578 907.0872">
+  <metadata
+     id="metadata3003">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:snap-global="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:document-rotation="0"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1918"
+     inkscape:window-height="2071"
+     id="namedview3001"
+     showgrid="false"
+     inkscape:snap-midpoints="true"
+     inkscape:zoom="0.63696985"
+     inkscape:cx="853.2648"
+     inkscape:cy="933.09178"
+     inkscape:window-x="1904"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2999"
+     inkscape:pagecheckerboard="false"
+     inkscape:showpageshadow="true"
+     viewbox-height="562"
+     units="mm"
+     width="209mm" />
+  <defs
+     id="defs2949">
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker7686"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path7684"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker7154"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart">
+      <path
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path7152" />
+    </marker>
+    <rect
+       x="91.642715"
+       y="375.46094"
+       width="93.354141"
+       height="77.464081"
+       id="rect7064" />
+    <marker
+       inkscape:stockid="Arrow2Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Send"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4432"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-0.3,0,0,-0.3,0.69,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Lend"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4420"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="ExperimentalArrow"
+       orient="auto-start-reverse"
+       refY="3"
+       refX="5"
+       id="ExperimentalArrow"
+       inkscape:isstock="true">
+      <path
+         id="path4652"
+         d="M 10,3 0,6 V 0 Z"
+         style="fill:context-stroke;stroke:#000000;stroke-opacity:1" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4955"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4953"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker4793"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path4791" />
+    </marker>
+    <clipPath
+       id="clip0">
+      <path
+         d="M 40,153 H 1214 V 664 H 40 Z"
+         fill-rule="evenodd"
+         clip-rule="evenodd"
+         id="path2946" />
+    </clipPath>
+  </defs>
+  <rect
+     ry="18"
+     rx="18"
+     y="483.45114"
+     x="117.55338"
+     height="178.65302"
+     width="213.30811"
+     id="rect1081"
+     style="fill:#d2d2d2;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <g
+     transform="translate(51.756873,99.76788)"
+     id="g1040">
+    <rect
+       ry="18"
+       rx="18"
+       y="403.49072"
+       x="83.731018"
+       height="139.03809"
+       width="177.43909"
+       id="rect1038"
+       style="fill:#e1e5ff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+  <g
+     transform="translate(-44.786798,2.3369753e-5)"
+     id="g971">
+    <rect
+       ry="18"
+       rx="18"
+       y="288.36435"
+       x="162.34018"
+       height="178.65302"
+       width="213.30811"
+       id="rect1079"
+       style="fill:#d2d2d2;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <g
+       id="g1036"
+       transform="translate(-101.31925,59.392751)">
+      <rect
+         ry="18"
+         rx="18"
+         y="248.77907"
+         x="281.59393"
+         height="139.03809"
+         width="177.43909"
+         id="rect1034"
+         style="fill:#aeaeae;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <text
+       id="text1050"
+       y="393.24295"
+       x="188.09836"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:85.3333px;line-height:1.25;font-family:BentonSans;-inkscape-font-specification:'BentonSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.6667px;font-family:BentonSans;-inkscape-font-specification:'BentonSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         y="393.24295"
+         x="188.09836"
+         id="tspan1048"
+         sodipodi:role="line">Reviews</tspan></text>
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:85.3333px;line-height:1.25;font-family:BentonSans;-inkscape-font-specification:'BentonSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+     x="161.93655"
+     y="584.23596"
+     id="text1054"><tspan
+       sodipodi:role="line"
+       id="tspan1052"
+       x="161.93655"
+       y="584.23596"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.6667px;font-family:BentonSans;-inkscape-font-specification:'BentonSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Billing</tspan></text>
+  <rect
+     style="fill:#d2d2d2;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect1083"
+     width="213.30811"
+     height="178.65302"
+     x="117.55338"
+     y="678.5379"
+     rx="18"
+     ry="18" />
+  <rect
+     style="fill:#ffd05d;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect1056"
+     width="177.43909"
+     height="139.03809"
+     x="135.48788"
+     y="698.3454"
+     rx="18"
+     ry="18" />
+  <text
+     id="text1060"
+     y="783.64569"
+     x="156.5303"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:85.3333px;line-height:1.25;font-family:BentonSans;-inkscape-font-specification:'BentonSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+     xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.6667px;font-family:BentonSans;-inkscape-font-specification:'BentonSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       y="783.64569"
+       x="156.5303"
+       id="tspan1058"
+       sodipodi:role="line">Orders</tspan></text>
+  <path
+     id="path1085"
+     style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:6, 3;stroke-dashoffset:0;stroke-opacity:1"
+     d="M 71.430861,312.41664 C 116.15018,201.74545 42.57111,152.81704 99.528841,65.457516 156.48657,-21.902013 228.66616,80.527523 315.6989,43.097451 402.73164,5.6673795 730.17685,7.213603 836.65353,31.750635 943.1302,56.287666 1028.839,0.88359255 1074.5923,59.489514 1120.3456,118.09544 1090.8157,310.77975 982.96926,351.69485 875.1228,392.60994 947.91913,570.20396 888.03838,649.34901 828.15763,728.49406 606.49983,632.07429 568.028,657.39665 529.55618,682.71901 533.45932,827.92068 460.99743,812.31425 388.53553,796.70783 336.44489,866.14707 276.80909,877.62813 217.17329,889.10918 73.777571,894.46762 55.483531,812.07073 37.189481,729.67385 83.458386,713.91011 86.675155,609.27648 89.891924,504.64286 26.711542,423.08783 71.430861,312.41664 Z"
+     sodipodi:nodetypes="zzzzzzzzzzzzz" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:85.3333px;line-height:1.25;font-family:BentonSans;-inkscape-font-specification:'BentonSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+     x="370.96701"
+     y="74.254173"
+     id="text1129"><tspan
+       sodipodi:role="line"
+       id="tspan1127"
+       x="370.96701"
+       y="74.254173"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.6667px;font-family:BentonSans;-inkscape-font-specification:'BentonSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Webshop Application</tspan></text>
+  <g
+     id="g1017">
+    <g
+       id="g934"
+       transform="translate(-44.786798,2.3369753e-5)">
+      <rect
+         ry="18"
+         rx="18"
+         y="93.277603"
+         x="162.34018"
+         height="178.65302"
+         width="213.30811"
+         id="rect1032"
+         style="fill:#d2d2d2;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         ry="18"
+         rx="18"
+         y="113.08507"
+         x="180.27469"
+         height="139.03809"
+         width="177.43909"
+         id="rect1042"
+         style="fill:#daf7cb;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         id="text1046"
+         y="194.35413"
+         x="191.73373"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:85.3333px;line-height:1.25;font-family:BentonSans;-inkscape-font-specification:'BentonSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.6667px;font-family:BentonSans;-inkscape-font-specification:'BentonSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           y="194.35413"
+           x="191.73373"
+           id="tspan1044"
+           sodipodi:role="line">Catalog</tspan></text>
+    </g>
+    <g
+       id="g944"
+       transform="translate(191.22662,2.3369753e-5)">
+      <rect
+         style="fill:#d2d2d2;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect936"
+         width="213.30811"
+         height="178.65302"
+         x="162.34018"
+         y="93.277603"
+         rx="18"
+         ry="18" />
+      <rect
+         style="fill:#daf7cb;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect938"
+         width="177.43909"
+         height="139.03809"
+         x="180.27469"
+         y="113.08507"
+         rx="18"
+         ry="18" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:85.3333px;line-height:1.25;font-family:BentonSans;-inkscape-font-specification:'BentonSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="191.73373"
+         y="194.35413"
+         id="text942"><tspan
+           sodipodi:role="line"
+           id="tspan940"
+           x="191.73373"
+           y="194.35413"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.6667px;font-family:BentonSans;-inkscape-font-specification:'BentonSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Catalog</tspan></text>
+    </g>
+    <g
+       transform="translate(427.24007,2.3369753e-5)"
+       id="g954">
+      <rect
+         ry="18"
+         rx="18"
+         y="93.277603"
+         x="162.34018"
+         height="178.65302"
+         width="213.30811"
+         id="rect946"
+         style="fill:#d2d2d2;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         ry="18"
+         rx="18"
+         y="113.08507"
+         x="180.27469"
+         height="139.03809"
+         width="177.43909"
+         id="rect948"
+         style="fill:#daf7cb;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         id="text952"
+         y="194.35413"
+         x="191.73373"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:85.3333px;line-height:1.25;font-family:BentonSans;-inkscape-font-specification:'BentonSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.6667px;font-family:BentonSans;-inkscape-font-specification:'BentonSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           y="194.35413"
+           x="191.73373"
+           id="tspan950"
+           sodipodi:role="line">Catalog</tspan></text>
+    </g>
+    <g
+       id="g964"
+       transform="translate(663.25353,2.3369753e-5)">
+      <rect
+         style="fill:#d2d2d2;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect956"
+         width="213.30811"
+         height="178.65302"
+         x="162.34018"
+         y="93.277603"
+         rx="18"
+         ry="18" />
+      <rect
+         style="fill:#daf7cb;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect958"
+         width="177.43909"
+         height="139.03809"
+         x="180.27469"
+         y="113.08507"
+         rx="18"
+         ry="18" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:85.3333px;line-height:1.25;font-family:BentonSans;-inkscape-font-specification:'BentonSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="191.73373"
+         y="194.35413"
+         id="text962"><tspan
+           sodipodi:role="line"
+           id="tspan960"
+           x="191.73373"
+           y="194.35413"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.6667px;font-family:BentonSans;-inkscape-font-specification:'BentonSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Catalog</tspan></text>
+    </g>
+  </g>
+  <g
+     transform="translate(191.22662,2.3369753e-5)"
+     id="g983">
+    <rect
+       style="fill:#d2d2d2;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect973"
+       width="213.30811"
+       height="178.65302"
+       x="162.34018"
+       y="288.36435"
+       rx="18"
+       ry="18" />
+    <g
+       transform="translate(-101.31925,59.392751)"
+       id="g977">
+      <rect
+         style="fill:#aeaeae;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect975"
+         width="177.43909"
+         height="139.03809"
+         x="281.59393"
+         y="248.77907"
+         rx="18"
+         ry="18" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:85.3333px;line-height:1.25;font-family:BentonSans;-inkscape-font-specification:'BentonSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="188.09836"
+       y="393.24295"
+       id="text981"><tspan
+         sodipodi:role="line"
+         id="tspan979"
+         x="188.09836"
+         y="393.24295"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.6667px;font-family:BentonSans;-inkscape-font-specification:'BentonSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Reviews</tspan></text>
+  </g>
+  <g
+     id="g995"
+     transform="translate(427.24007,2.3369753e-5)">
+    <rect
+       ry="18"
+       rx="18"
+       y="288.36435"
+       x="162.34018"
+       height="178.65302"
+       width="213.30811"
+       id="rect985"
+       style="fill:#d2d2d2;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <g
+       id="g989"
+       transform="translate(-101.31925,59.392751)">
+      <rect
+         ry="18"
+         rx="18"
+         y="248.77907"
+         x="281.59393"
+         height="139.03809"
+         width="177.43909"
+         id="rect987"
+         style="fill:#aeaeae;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <text
+       id="text993"
+       y="393.24295"
+       x="188.09836"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:85.3333px;line-height:1.25;font-family:BentonSans;-inkscape-font-specification:'BentonSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.6667px;font-family:BentonSans;-inkscape-font-specification:'BentonSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         y="393.24295"
+         x="188.09836"
+         id="tspan991"
+         sodipodi:role="line">Reviews</tspan></text>
+  </g>
+</svg>

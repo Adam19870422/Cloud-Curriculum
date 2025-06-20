@@ -1,0 +1,31 @@
+name: Sync Issues to Projects
+
+on:
+  issues:
+    types:
+      - opened
+      - reopened
+
+jobs:
+  sync-to-projects:
+    runs-on: solinas
+    steps:
+      - name: Create GH App Token
+        uses: actions/create-github-app-token@v1
+        id: app-token
+        with:
+          app-id: ${{ secrets.CC_TECH_INTEGRATION_APP_ID }}
+          private-key: ${{ secrets.CC_TECH_INTEGRATION_PRIVATE_KEY }}
+        
+      - name: Add Issue to Project
+        id: add-issue
+        uses: actions/add-to-project@v0.5.0
+        with:
+          project-url: https://github.tools.sap/orgs/cloud-curriculum/projects/1
+          github-token: '${{ steps.app-token.outputs.token }}'
+          
+      - name: Attempt to assign column
+        run: |
+          echo "itemId: ${{ steps.add-issue.outputs.itemId }}"
+          echo ${{ steps.app-token.outputs.token }} | gh auth login --with-token -h github.tools.sap -p https
+          gh project item-edit --id ${{ steps.add-issue.outputs.itemId }} --field-id MDI2OlByb2plY3RWMlNpbmdsZVNlbGVjdEZpZWxkNTQwOQ== --project-id MDk6UHJvamVjdFYyNjE3 --single-select-option-id c22571b4

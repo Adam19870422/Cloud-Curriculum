@@ -1,0 +1,2 @@
+- Go to `Run` and click `Coverage` or use keyboard-shortcut <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>F11</kbd>
+- **NOTE:** You must have EclEmma installed, see prerequisites above.

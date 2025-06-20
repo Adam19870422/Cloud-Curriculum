@@ -1,0 +1,1 @@
+- Right-click on the `src>test>java` directory and click `Run Tests with Coverage`.

@@ -1,0 +1,1 @@
+- Right-click on the project and click `Run 'All Tests' with Coverage`.

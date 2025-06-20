@@ -1,0 +1,3 @@
+The [developer tools](https://docs.spring.io/spring-boot/docs/current/reference/html/using-spring-boot.html#using-boot-devtools){target=_blank} take care of restarting the application for you after file changes.
+If you suspect that your changes were not applied, make sure that all changed files have been saved and wait a few seconds for the application to restart.
+If you are using an IntelliJ IDE you will need to rebuild the project (<kbd>Ctrl</kbd>+<kbd>F9</kbd>).
